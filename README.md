@@ -1,0 +1,1 @@
+This project implements a deep learning–based hand gesture recognition system capable of classifying five American Sign Language (ASL) hand signs: Yes, No, Hello, I Love You, and Thank You. The model is trained on labeled hand-gesture images and uses computer vision and deep learning techniques to accurately recognize and classify hand gestures.
